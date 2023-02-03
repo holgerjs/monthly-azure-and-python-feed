@@ -1,3 +1,15 @@
+## February 2023
+
+### Updates
+
+- [February 2023 release of the Python and Jupyter extensions](https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2023-release/) for Visual Studio Code are now available.
+
+### References
+
+| # | Title | URL | Accessed-On |
+| --- | --- | --- | --- | 
+| 1 | Python in Visual Studio Code – February 2023 Release | https://devblogs.microsoft.com/python/python-in-visual-studio-code-february-2023-release/ | 2023-02-03 |
+
 ## January 2023
 
 ### Updates
