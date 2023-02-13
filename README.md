@@ -2,7 +2,9 @@
 
 ### Updates
 
-- [Developing Azure Functions using the v2 programming model for Python | Azure Friday](https://youtu.be/KARieaWBxuk)     > Gavin Aguiar and Shreya Batra join Scott Hanselman to discuss the v2 programming model for Azure Functions using Python.
+- [Developing Azure Functions using the v2 programming model for Python | Azure Friday](https://youtu.be/KARieaWBxuk)
+    > Gavin Aguiar and Shreya Batra join Scott Hanselman to discuss the v2 programming model for Azure Functions using Python.
+    - Comprehensive overview over the simplified v2 programming model and how quick deployments can be done through Visual Studio Code.
 
 - Announcements of [the latest beta release of the Azure Text Analytics client libraries for Python](https://devblogs.microsoft.com/azure-sdk/announcing-the-new-beta-release-of-azure-text-analytics-libraries/) [18]. The blog post highlights Python samples for these features:
     - Abstractive summarization
