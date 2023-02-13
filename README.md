@@ -37,7 +37,7 @@
 | 16 | Azure Samples - Deploy a Python (Django) web app with PostgreSQL in Azure | https://github.com/Azure-Samples/msdocs-django-postgresql-sample-app | 2023-02-09 |
 | 17 | HTTP API powered by FastAPI with Azure Functions and APIM | https://github.com/pamelafox/fastapi-azure-function-apim | 2023-02-09 |
 | 18 | Announcing the new beta release of Azure Text Analytics libraries | https://devblogs.microsoft.com/azure-sdk/announcing-the-new-beta-release-of-azure-text-analytics-libraries/ | 2023-02-10 |
-
+| 19 | Developing Azure Functions using the v2 programming model for Python - Azure Friday | https://www.youtube.com/watch?v=KARieaWBxuk | 2023-02-11 |
 
 ## History
 
