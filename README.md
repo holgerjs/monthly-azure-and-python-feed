@@ -16,7 +16,9 @@
     
     > **Note**
     >
-    > If you follow the example along, make sure to create the cognitive services account in the right region, otherwise you might be seein errors like this when attempting to run the code: `{'code': 'InvalidRequest', 'message': "Job task: 'AbstractiveSummarization-0' failed with validation error: Document abstractive summarization is not supported in the region {Your-Region}. The supported regions are North Europe, East US, UK South."}`
+    > If you follow the example along:
+    > - you may need to create the cognitive services account in the right region, otherwise you might be seein errors like this when attempting to run the code: `{'code': 'InvalidRequest', 'message': "Job task: 'AbstractiveSummarization-0' failed with validation error: Document abstractive summarization is not supported in the region {Your-Region}. The supported regions are North Europe, East US, UK South."}`
+    > - you may need to request access at https://aka.ms/applyforgatedsummarizationfeatures if the service is part of a gated public preview feature.
 
 
 - Azure Developer CLI (azd) includes [new templates for Python](https://devblogs.microsoft.com/azure-sdk/azure-developer-cli-azd-february-2023-release/#python) [14].
