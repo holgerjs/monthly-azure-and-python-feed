@@ -2,6 +2,8 @@
 
 ### Updates
 
+- [Azure SDK for Python - February 2023 Releases](https://azure.github.io/azure-sdk/releases/2023-02/python.html) [20]
+
 - [Developing Azure Functions using the v2 programming model for Python | Azure Friday](https://youtu.be/KARieaWBxuk)[19]
     > Gavin Aguiar and Shreya Batra join Scott Hanselman to discuss the v2 programming model for Azure Functions using Python.
     - Comprehensive overview over the simplified v2 programming model and how quick deployments can be done through Visual Studio Code.
@@ -46,6 +48,7 @@
 | 17 | HTTP API powered by FastAPI with Azure Functions and APIM | https://github.com/pamelafox/fastapi-azure-function-apim | 2023-02-09 |
 | 18 | Announcing the new beta release of Azure Text Analytics libraries | https://devblogs.microsoft.com/azure-sdk/announcing-the-new-beta-release-of-azure-text-analytics-libraries/ | 2023-02-10 |
 | 19 | Developing Azure Functions using the v2 programming model for Python - Azure Friday | https://www.youtube.com/watch?v=KARieaWBxuk | 2023-02-11 |
+| 20 | Azure SDK for Python (February 2023) | https://azure.github.io/azure-sdk/releases/2023-02/python.html | 2023-02-14 |
 
 ## History
 
