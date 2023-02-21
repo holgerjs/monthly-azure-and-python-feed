@@ -2,6 +2,9 @@
 
 ### Updates
 
+- [Azure Functions support for Python 3.10](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-for-python-310/) is GA. [21]
+    > You can now develop functions using Python 3.10 locally and deploy them to all Azure Functions plans. 
+
 - [Azure SDK for Python - February 2023 Releases](https://azure.github.io/azure-sdk/releases/2023-02/python.html) [20]
 
 - [Developing Azure Functions using the v2 programming model for Python | Azure Friday](https://youtu.be/KARieaWBxuk) [19]
@@ -49,6 +52,7 @@
 | 18 | Announcing the new beta release of Azure Text Analytics libraries | https://devblogs.microsoft.com/azure-sdk/announcing-the-new-beta-release-of-azure-text-analytics-libraries/ | 2023-02-10 |
 | 19 | Developing Azure Functions using the v2 programming model for Python - Azure Friday | https://www.youtube.com/watch?v=KARieaWBxuk | 2023-02-11 |
 | 20 | Azure SDK for Python (February 2023) | https://azure.github.io/azure-sdk/releases/2023-02/python.html | 2023-02-14 |
+| 21 | Generally available: Azure Functions support for Python 3.10 | https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-for-python-310/ | 2023-02-21 |
 
 ## History
 
