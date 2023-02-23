@@ -8,7 +8,6 @@
 
 - New Python versions have been released.
     - [Python 3.10.10](https://docs.python.org/release/3.10.10/whatsnew/changelog.html#python-3-10-10-final) [22] and [Python 3.11.2](https://docs.python.org/release/3.11.2/whatsnew/changelog.html#python-3-11-2) [23]
-    - 
 
 - [Azure Functions support for Python 3.10](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-for-python-310/) is GA. [21]
     > You can now develop functions using Python 3.10 locally and deploy them to all Azure Functions plans. 
