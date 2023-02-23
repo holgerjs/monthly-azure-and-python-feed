@@ -2,6 +2,14 @@
 
 ### Updates
 
+- In a blogpost about the [State of the Azure SDK 2023](https://devblogs.microsoft.com/azure-sdk/state-of-the-azure-sdk-2023/) [24], the Azure SDK team has announced the launch of a monthly Azure SDK Community Standup.
+    > [The SDK Team's] goal is to create a space where developers can come together, share their experiences and knowledge, and discuss the latest developments in the Azure SDK ecosystem. [...] Join us every second Tuesday of the month from 11:00 AM to noon Pacific Time (UTC-8) to learn, collaborate, and grow with the community. Check out the recording of our premiere standup!
+    - The [first recording is here](https://www.youtube.com/live/HizG8gMR9WI?feature=share). [25]
+
+- New Python versions have been released.
+    - [Python 3.10.10](https://docs.python.org/release/3.10.10/whatsnew/changelog.html#python-3-10-10-final) [22] and [Python 3.11.2](https://docs.python.org/release/3.11.2/whatsnew/changelog.html#python-3-11-2) [23]
+    - 
+
 - [Azure Functions support for Python 3.10](https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-for-python-310/) is GA. [21]
     > You can now develop functions using Python 3.10 locally and deploy them to all Azure Functions plans. 
 
@@ -53,6 +61,10 @@
 | 19 | Developing Azure Functions using the v2 programming model for Python - Azure Friday | https://www.youtube.com/watch?v=KARieaWBxuk | 2023-02-11 |
 | 20 | Azure SDK for Python (February 2023) | https://azure.github.io/azure-sdk/releases/2023-02/python.html | 2023-02-14 |
 | 21 | Generally available: Azure Functions support for Python 3.10 | https://azure.microsoft.com/en-us/updates/generally-available-azure-functions-support-for-python-310/ | 2023-02-21 |
+| 22 | Python 3.10.10 final | https://docs.python.org/release/3.10.10/whatsnew/changelog.html#python-3-10-10-final | 2023-02-23 |
+| 23 | Python 3.11.2 final | https://docs.python.org/release/3.11.2/whatsnew/changelog.html#python-3-11-2 | 2023-02-23 |
+| 24 | State of the Azure SDK 2023 | https://devblogs.microsoft.com/azure-sdk/state-of-the-azure-sdk-2023/ | 2023-02-23 |
+| 25 | Introducing Azure SDK [February 2023] - Azure SDK Community Standup | https://www.youtube.com/live/HizG8gMR9WI?feature=share | 2023-02-23 |
 
 ## History
 
