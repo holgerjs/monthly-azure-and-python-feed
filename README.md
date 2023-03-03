@@ -1,3 +1,5 @@
+This repo has some weblinks around Python within the Azure ecosystem. Updates are added every now and then when I come across these on the web.
+
 ## March 2023
 
 ### Updates
